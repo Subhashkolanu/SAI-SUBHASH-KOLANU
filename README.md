@@ -1,4 +1,4 @@
-# Hi 👋, I'm SAI SUBHASH KOLANU
+# Hi , I'm SAI SUBHASH KOLANU
 
 ### A budding Jupyter notebook developer
 
