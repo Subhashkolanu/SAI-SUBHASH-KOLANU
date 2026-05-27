@@ -52,19 +52,7 @@ MATLAB practice programs and mini projects.
 ### ⚙️ SIMULINK
 Simulink models and simulation-based programs.
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhashkolanu&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashkolanu&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
