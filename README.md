@@ -1,20 +1,77 @@
-# Hi , I'm SAI SUBHASH KOLANU
+<h1 align="center">Hi 👋, I'm Sai Subhash Kolanu</h1>
 
-### A budding Jupyter notebook developer
+<h3 align="center">CSE Student | Java Developer | Python Learner | AI Enthusiast</h3>
 
-- 🔭 I'm currently working on **Python projects**
+---
 
-- 🌱 I'm currently learning **python**
+## 🚀 About Me
 
-- 👯 I'm looking to collaborate on **python projects**
+🎓 Engineering Student in Computer Science Engineering  
+💻 Passionate about Programming and Software Development  
+🌱 Currently learning Java OOP, Python and AI  
+🔥 Building projects and improving coding skills daily  
+⚡ Interested in AI, Development and Problem Solving  
 
-- 📫 How to reach me **kos720500@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://github.com/Subhashkolanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Subhashkolanu" height="30" width="40" /></a>
+  ☕ Java <br>
+  🐍 Python <br>
+  🔵 C Programming <br>
+  🤖 AI & TypeScript <br>
+  📊 MATLAB <br>
+  📐 Simulink <br>
+  🏗️ AutoCAD <br>
+  🔧 Git & GitHub
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
+## 📂 Featured Repositories
+
+### ☕ JAVA
+Java practice programs, OOP concepts and coding exercises.
+
+### 🐍 PYTHON
+Daily Python learning journey with practice programs and mini projects.
+
+### 🤖 AI-works
+AI-related projects and experiments built using Google Studio tools.
+
+### 🔵 C
+C language practice questions and programming fundamentals.
+
+### 📐 AUTOCAD
+Engineering drawings, designs and project work.
+
+### 📊 MATLAB
+MATLAB practice programs and mini projects.
+
+### ⚙️ SIMULINK
+Simulink models and simulation-based programs.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhashkolanu&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashkolanu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+🔗 GitHub: https://github.com/Subhashkolanu  
+
+---
+
+<p align="center">
+  ⭐ “Consistency and daily practice build strong developers.”
+</p>
